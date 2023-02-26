@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Recipes</title>
   <subtitle>A place to organize recipes</subtitle>
-  <updated>2023-02-26T09:33:20-07:00</updated>
+  <updated>2023-02-26T11:11:44-07:00</updated>
   <author>
     <name>thekneadtoknow.com</name>
     <uri>/</uri>
@@ -20,23 +20,23 @@
 
   
   <entry>
-    <title>Peanut Butter Cookies</title>
-    <link href="/posts/peanut-butter-cookies/" rel="alternate" type="text/html" title="Peanut Butter Cookies" />
-    <published>2023-02-26T01:12:00-07:00</published>
+    <title>Cinnamon Raisin Bagels</title>
+    <link href="/posts/cinnamon-raison-bagels/" rel="alternate" type="text/html" title="Cinnamon Raisin Bagels" />
+    <published>2023-02-26T03:55:00-07:00</published>
   
-    <updated>2023-02-26T09:33:06-07:00</updated>
+    <updated>2023-02-26T03:55:00-07:00</updated>
   
-    <id>/posts/peanut-butter-cookies/</id>
-    <content src="/posts/peanut-butter-cookies/" />
+    <id>/posts/cinnamon-raison-bagels/</id>
+    <content src="/posts/cinnamon-raison-bagels/" />
     <author>
       <name>thekneadtoknow.com</name>
     </author>
 
   
     
-    <category term="dessert" />
+    <category term="breads" />
     
-    <category term="cookies" />
+    <category term="bagels" />
     
   
 
@@ -48,27 +48,27 @@
 
 
 
-      A peanut butter cookie is a type of cookie.
+      Makes 8 bagels
 
 Ingredients
 
 
-  1 cup unsalted butter
-  1 cup crunchy peanut butter
-  1 cup white sugar
-  1 cup packed brown sugar
-  2 eggs 2
-  1/2 cups all-purpose flour
-  1 teaspoon baking powder
-  1/2 teaspoon salt
-  1 1/2 teaspoons baking soda
+  1 2/3 cups flour
+  1 tsp. salt
+  1 1/2 tbsp. cinnamon
+  2 1/2 tsp. yeast
+  1 cup warm water
+  3 tbsp brown sugar, divided
+  2/3 cup seedless raisins
 
 
 Directions
 
 
-  Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
-  In a separate bowl, sift fl...
+  Whisk together flour, salt and cinnamon.
+  Whisk together yeast, water, and 2 tbsp. brown sugar. Let proof for 5 minutes.
+  Add flour mixture and mix for 5-10 minutes.
+  Knead in raisins by hand on f...
     </summary>
   
 
@@ -76,23 +76,21 @@ Directions
 
   
   <entry>
-    <title>Oatmeal Cookies</title>
-    <link href="/posts/oatmeal-cookies/" rel="alternate" type="text/html" title="Oatmeal Cookies" />
-    <published>2023-02-26T01:10:00-07:00</published>
+    <title>Sourdough Sandwich Loaf</title>
+    <link href="/posts/sourdough-sandwich-loaf/" rel="alternate" type="text/html" title="Sourdough Sandwich Loaf" />
+    <published>2023-02-26T03:48:00-07:00</published>
   
-    <updated>2023-02-26T09:33:06-07:00</updated>
+    <updated>2023-02-26T03:48:00-07:00</updated>
   
-    <id>/posts/oatmeal-cookies/</id>
-    <content src="/posts/oatmeal-cookies/" />
+    <id>/posts/sourdough-sandwich-loaf/</id>
+    <content src="/posts/sourdough-sandwich-loaf/" />
     <author>
       <name>thekneadtoknow.com</name>
     </author>
 
   
     
-    <category term="dessert" />
-    
-    <category term="cookies" />
+    <category term="breads" />
     
   
 
@@ -104,26 +102,23 @@ Directions
 
 
 
-      This cookie is baked in an oven.
+      Makes 2 loaves
 
 Ingredients
 
 
-  1 cup butter, softened 1 cup white sugar
-  1 cup packed brown sugar
-  2 eggs
-  1 teaspoon vanilla extract
-  2 cups all-purpose flour
-  1 teaspoon baking soda
-  1 teaspoon salt
-  1 1/2 teaspoons ground cinnamon
-  3 cups quick cooking oats
+  1 1/4 cups water (10 ounces)
+  1 1/2 tsp. yeast
+  2 cups ripe sourdough starter (16 ounces)
+  4 to 4 1/2 cups all-purpose flour
+  1 tbsp. kosher salt
 
 
 Directions
 
 
-  In a medium bowl, cream together butter, white sugar, and brown sugar. Beat in eggs one at a...
+  Combine water and yeast, let dissolve. Stir in sourdough starter until mostly dissolved (a few string bits are ok).
+  Add 4 cups and the salt, and stir to make a shaggy dough. Knead tht dough for 8 ...
     </summary>
   
 
@@ -131,23 +126,21 @@ Directions
 
   
   <entry>
-    <title>Chocolate Chip Cookies</title>
-    <link href="/posts/chocolate-chip-cookies/" rel="alternate" type="text/html" title="Chocolate Chip Cookies" />
-    <published>2023-02-26T01:08:00-07:00</published>
+    <title>Banana Bread</title>
+    <link href="/posts/banana-bread/" rel="alternate" type="text/html" title="Banana Bread" />
+    <published>2023-02-26T03:36:00-07:00</published>
   
-    <updated>2023-02-26T09:33:06-07:00</updated>
+    <updated>2023-02-26T03:36:00-07:00</updated>
   
-    <id>/posts/chocolate-chip-cookies/</id>
-    <content src="/posts/chocolate-chip-cookies/" />
+    <id>/posts/banana-bread/</id>
+    <content src="/posts/banana-bread/" />
     <author>
       <name>thekneadtoknow.com</name>
     </author>
 
   
     
-    <category term="dessert" />
-    
-    <category term="cookies" />
+    <category term="breads" />
     
   
 
@@ -159,25 +152,138 @@ Directions
 
 
 
-      The traditional recipe for quick and easy cavities.
+      Makes one loaf.
 
 Ingredients
 
 
-  2 1/4 cups all-purpose flour
-  1 teaspoon baking soda
-  1/2 teaspoon salt
-  1 cup butter, softened and cut to pieces
-  1 cup sugar
-  1 cup light brown sugar, packed
-  2 teaspoons vanilla extract
-  2 large eggs
-  2 cups semi-sweet chocolate chips
-  1/2 teaspoon nutmeg (optional)
-  1 cup chopped pecans or walnuts (optional)
+  2 cups wheat flour with nutmeg added
+  1/2 tsp. cinnamon
+  1 1/2 tsp baking powder
+  1/2 tsp. baking soda
+  2 egss
+  2-3 mashed bannanas
+  1/2 cup sugar
+  2 tbsp. brown sugar
+  1/2 cup butter, melted and cooled to room temperature
+  1/4 cup sour cream with 2 tsp. oil
 
 
-Di...
+Directions
+
+
+  Mix flour, baking powder, baking soda, and cinnamon in a small bowl. Set aside....
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>White Sandwich Bread</title>
+    <link href="/posts/white-sandwich-bread/" rel="alternate" type="text/html" title="White Sandwich Bread" />
+    <published>2023-02-26T03:26:00-07:00</published>
+  
+    <updated>2023-02-26T03:26:00-07:00</updated>
+  
+    <id>/posts/white-sandwich-bread/</id>
+    <content src="/posts/white-sandwich-bread/" />
+    <author>
+      <name>thekneadtoknow.com</name>
+    </author>
+
+  
+    
+    <category term="breads" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Makes one loaf.
+
+Ingredients
+
+
+  3 1/4 cup flour (sift and level when measuring) 
+      add more as needed (210 + 210 - 250g or more)
+  1 1/4 tsp. salt (8g)
+  2 1/4 tsp. yeast (one packet) (5g)
+  2 tbsp. sugar (28g)
+  1 3/8 cup warm water (325mL)
+  2 tbsp. oil
+
+
+Directions
+
+
+  Combine 1 1/2 cup of the four, salt, yeast and sugar. Add the water and oil and mix until combined. Mixture will be thi...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Danish Oat Loaf</title>
+    <link href="/posts/danish-oat-loaf/" rel="alternate" type="text/html" title="Danish Oat Loaf" />
+    <published>2023-02-26T03:18:00-07:00</published>
+  
+    <updated>2023-02-26T03:18:00-07:00</updated>
+  
+    <id>/posts/danish-oat-loaf/</id>
+    <content src="/posts/danish-oat-loaf/" />
+    <author>
+      <name>thekneadtoknow.com</name>
+    </author>
+
+  
+    
+    <category term="breads" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Makes two 8-inch loaves.
+
+Ingredients
+
+
+  1 cup uncooked rolled oats.
+  1 cup milk, heated to boiling
+  2 tbsp. butter
+  1/4 cup brown sugar
+  1 tsp. salt
+  2 tsp. active dry yeast
+  1 1/4 cup lukewarm water
+  4-5 cups flour
+
+
+Topping:
+
+  1 beaten egg
+  2 tbsp. milk
+  rolled oats
+
+
+Directions
+
+
+  In a large bowl, dissolve yeast in warm water and let stnad 5 minutes until foamy.
+  In seperate bo...
     </summary>
   
 
