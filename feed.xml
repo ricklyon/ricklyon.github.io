@@ -1,0 +1,188 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/</id>
+  <title>Recipes</title>
+  <subtitle>A place to organize recipes</subtitle>
+  <updated>2023-02-26T09:17:53-07:00</updated>
+  <author>
+    <name>thekneadtoknow.com</name>
+    <uri>/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 thekneadtoknow.com </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Peanut Butter Cookies</title>
+    <link href="/posts/peanut-butter-cookies/" rel="alternate" type="text/html" title="Peanut Butter Cookies" />
+    <published>2023-02-26T01:12:00-07:00</published>
+  
+    <updated>2023-02-26T01:12:00-07:00</updated>
+  
+    <id>/posts/peanut-butter-cookies/</id>
+    <content src="/posts/peanut-butter-cookies/" />
+    <author>
+      <name>thekneadtoknow.com</name>
+    </author>
+
+  
+    
+    <category term="desert" />
+    
+    <category term="cookies" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      A peanut butter cookie is a type of cookie.
+
+Ingredients
+
+
+  1 cup unsalted butter
+  1 cup crunchy peanut butter
+  1 cup white sugar
+  1 cup packed brown sugar
+  2 eggs 2
+  1/2 cups all-purpose flour
+  1 teaspoon baking powder
+  1/2 teaspoon salt
+  1 1/2 teaspoons baking soda
+
+
+Directions
+
+
+  Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
+  In a separate bowl, sift fl...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Oatmeal Cookies</title>
+    <link href="/posts/oatmeal-cookies/" rel="alternate" type="text/html" title="Oatmeal Cookies" />
+    <published>2023-02-26T01:10:00-07:00</published>
+  
+    <updated>2023-02-26T01:10:00-07:00</updated>
+  
+    <id>/posts/oatmeal-cookies/</id>
+    <content src="/posts/oatmeal-cookies/" />
+    <author>
+      <name>thekneadtoknow.com</name>
+    </author>
+
+  
+    
+    <category term="desert" />
+    
+    <category term="cookies" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This cookie is baked in an oven.
+
+Ingredients
+
+
+  1 cup butter, softened 1 cup white sugar
+  1 cup packed brown sugar
+  2 eggs
+  1 teaspoon vanilla extract
+  2 cups all-purpose flour
+  1 teaspoon baking soda
+  1 teaspoon salt
+  1 1/2 teaspoons ground cinnamon
+  3 cups quick cooking oats
+
+
+Directions
+
+
+  In a medium bowl, cream together butter, white sugar, and brown sugar. Beat in eggs one at a...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Chocolate Chip Cookies</title>
+    <link href="/posts/chocolate-chip-cookies/" rel="alternate" type="text/html" title="Chocolate Chip Cookies" />
+    <published>2023-02-26T01:08:00-07:00</published>
+  
+    <updated>2023-02-26T01:08:00-07:00</updated>
+  
+    <id>/posts/chocolate-chip-cookies/</id>
+    <content src="/posts/chocolate-chip-cookies/" />
+    <author>
+      <name>thekneadtoknow.com</name>
+    </author>
+
+  
+    
+    <category term="desert" />
+    
+    <category term="cookies" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The traditional recipe for quick and easy cavities.
+
+Ingredients
+
+
+  2 1/4 cups all-purpose flour
+  1 teaspoon baking soda
+  1/2 teaspoon salt
+  1 cup butter, softened and cut to pieces
+  1 cup sugar
+  1 cup light brown sugar, packed
+  2 teaspoons vanilla extract
+  2 large eggs
+  2 cups semi-sweet chocolate chips
+  1/2 teaspoon nutmeg (optional)
+  1 cup chopped pecans or walnuts (optional)
+
+
+Di...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
