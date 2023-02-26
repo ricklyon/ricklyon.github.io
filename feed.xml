@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Recipes</title>
   <subtitle>A place to organize recipes</subtitle>
-  <updated>2023-02-26T09:17:53-07:00</updated>
+  <updated>2023-02-26T09:33:20-07:00</updated>
   <author>
     <name>thekneadtoknow.com</name>
     <uri>/</uri>
@@ -24,7 +24,7 @@
     <link href="/posts/peanut-butter-cookies/" rel="alternate" type="text/html" title="Peanut Butter Cookies" />
     <published>2023-02-26T01:12:00-07:00</published>
   
-    <updated>2023-02-26T01:12:00-07:00</updated>
+    <updated>2023-02-26T09:33:06-07:00</updated>
   
     <id>/posts/peanut-butter-cookies/</id>
     <content src="/posts/peanut-butter-cookies/" />
@@ -34,7 +34,7 @@
 
   
     
-    <category term="desert" />
+    <category term="dessert" />
     
     <category term="cookies" />
     
@@ -80,7 +80,7 @@ Directions
     <link href="/posts/oatmeal-cookies/" rel="alternate" type="text/html" title="Oatmeal Cookies" />
     <published>2023-02-26T01:10:00-07:00</published>
   
-    <updated>2023-02-26T01:10:00-07:00</updated>
+    <updated>2023-02-26T09:33:06-07:00</updated>
   
     <id>/posts/oatmeal-cookies/</id>
     <content src="/posts/oatmeal-cookies/" />
@@ -90,7 +90,7 @@ Directions
 
   
     
-    <category term="desert" />
+    <category term="dessert" />
     
     <category term="cookies" />
     
@@ -135,7 +135,7 @@ Directions
     <link href="/posts/chocolate-chip-cookies/" rel="alternate" type="text/html" title="Chocolate Chip Cookies" />
     <published>2023-02-26T01:08:00-07:00</published>
   
-    <updated>2023-02-26T01:08:00-07:00</updated>
+    <updated>2023-02-26T09:33:06-07:00</updated>
   
     <id>/posts/chocolate-chip-cookies/</id>
     <content src="/posts/chocolate-chip-cookies/" />
@@ -145,7 +145,7 @@ Directions
 
   
     
-    <category term="desert" />
+    <category term="dessert" />
     
     <category term="cookies" />
     
