@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://thekneadtoknow.com/recipes/chocolate-chip-cookies/</loc>
-<lastmod>2023-02-25T22:09:56-07:00</lastmod>
+<lastmod>2023-02-25T22:17:30-07:00</lastmod>
 </url>
 <url>
 <loc>https://thekneadtoknow.com/recipes/oatmeal-cookies/</loc>
-<lastmod>2023-02-25T22:09:56-07:00</lastmod>
+<lastmod>2023-02-25T22:17:30-07:00</lastmod>
 </url>
 <url>
 <loc>https://thekneadtoknow.com/recipes/peanut-butter-cookies/</loc>
-<lastmod>2023-02-25T22:09:56-07:00</lastmod>
+<lastmod>2023-02-25T22:17:30-07:00</lastmod>
 </url>
 <url>
 <loc>https://thekneadtoknow.com/categories/</loc>
@@ -26,9 +26,5 @@
 </url>
 <url>
 <loc>https://thekneadtoknow.com/tags/</loc>
-</url>
-<url>
-<loc>https://thekneadtoknow.com/</loc>
-<lastmod>2023-02-25T21:34:30-07:00</lastmod>
 </url>
 </urlset>
