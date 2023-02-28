@@ -32,13 +32,16 @@ Makes enough for a family of 4 with leftovers.
 4. Pour in corn, creamed corn, and milk. Set instant pot to saute and cook until bubbling.
 5. Set instant pot to keep warm, and serve with bacon bits and shredded cheese on top.
 
+> Serve with [Bread Bowls](http://thekneadtoknow.com/posts/bread-bowls/)
+{: .prompt-tip }
+
+-------
 Originally from: Disney Princess Cookbook
 
 Tested on: 2/27/2023
 
-Serve with:
-* Bread Bowls
+-------------
 
 Suggestions for next time:
 * season with Jane's Krazy Salt (or add a measurable amount?
-* time to see how long to cook start-finish)
+* time to see how long to cook start-finish

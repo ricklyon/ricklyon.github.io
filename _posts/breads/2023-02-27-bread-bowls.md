@@ -32,16 +32,15 @@ Makes 8 bowls.
 8. Bake for 25-30 minutes, swapping bottom pan for the top pan after 15 minutes.
 9. Cool on wire rack, not cutting into them for at least 15 minutes after baking.
 
+> Serve with [Castle Corn Chowder](http://thekneadtoknow.com/posts/Castle-Corn-Chowder/)
+{: .prompt-tip }
+
 -----------------
 Originally from: Tastes Better from Scratch
 
 Tested on: 2/27/2023
-----------------
-----------------
-Serve with:
-* Castle Corn Chowder
 
+----------------
 Suggestions for next time:
 * broil/toast bowls with cheese to keep from getting soggy.
 * Make smaller bowls for kid size also.
-------------------
