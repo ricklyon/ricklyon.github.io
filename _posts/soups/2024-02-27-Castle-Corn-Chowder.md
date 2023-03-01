@@ -18,7 +18,7 @@ Makes enough for a family of 4 with leftovers.
 * 6 red potatoes, diced
 * 1 can of corn
 * 1 can of creamed corn
-* 1 1/2 cups milk
+* 1 &frac12; cups milk
 * salt/pepper to taste
 * bacon bits
 * shredded cheese
@@ -32,7 +32,7 @@ Makes enough for a family of 4 with leftovers.
 4. Pour in corn, creamed corn, and milk. Set instant pot to saute and cook until bubbling.
 5. Set instant pot to keep warm, and serve with bacon bits and shredded cheese on top.
 
-> Serve with [Bread Bowls](http://thekneadtoknow.com/posts/bread-bowls/)
+> Serve with [Bread Bowls](/posts/bread-bowls/)
 {: .prompt-tip }
 
 -------

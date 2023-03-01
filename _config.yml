@@ -19,12 +19,12 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Recipes                          # the main title
+title: KneadToKnow                        # the main title
 
 tagline:    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A place to organize recipes
+  Knead to Know Recipes
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/images/logo.jpg"
+avatar: "/images/logo.svg"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
