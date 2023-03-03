@@ -34,15 +34,3 @@ Recipe source for [Sourdough Discard Waffles](https://rusticfamilyrecipes.com/so
 
 ### Notes for next time:
 * Try to make a thinner batter? Add more milk? Waffles are dense.
-
-### Prompts:
-
-> Text for information prompt.
-{: .prompt-info }
-
-> Text for tip prompt.
-{: .prompt-tip }
-
-> Text for warning prompt.
-{: .prompt-warning }
-
