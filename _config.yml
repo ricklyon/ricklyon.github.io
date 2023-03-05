@@ -19,7 +19,7 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: KneadToKnow                        # the main title
+title: Recipes                        # the main title
 
 tagline:    # it will display as the sub-title
 
