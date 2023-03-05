@@ -25,18 +25,11 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = ">= 2.6"
 
-#   spec.add_runtime_dependency "jekyll", "~> 4.3"
-#   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
-#   spec.add_runtime_dependency "jekyll-redirect-from", "~> 0.16"
-#   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.7"
-#   spec.add_runtime_dependency "jekyll-archives", "~> 2.2"
-#   spec.add_runtime_dependency "jekyll-sitemap", "~> 1.4"
-
-  spec.add_runtime_dependency "jekyll", ">= 3.6", "< 5.0"
+  spec.add_runtime_dependency "jekyll", "~> 4.3"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
-  spec.add_runtime_dependency "jekyll-sitemap", "~> 1.3"
-  spec.add_runtime_dependency "jekyll-gist", "~> 1.4"
-  spec.add_runtime_dependency "jekyll-feed", "~> 0.1"
-  spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.4"
+  spec.add_runtime_dependency "jekyll-redirect-from", "~> 0.16"
+  spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.7"
+  spec.add_runtime_dependency "jekyll-archives", "~> 2.2"
+  spec.add_runtime_dependency "jekyll-sitemap", "~> 1.4"
 
 end

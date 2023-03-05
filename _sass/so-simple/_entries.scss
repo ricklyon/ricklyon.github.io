@@ -27,7 +27,7 @@
   font-family: $title-font-family;
   font-weight: $entry-title-weight;
   font-style: bold;
-  letter-spacing: 0.1px;
+  letter-spacing: -1px;
   word-wrap: break-word; /* break long words that could overflow */
 
   a {
