@@ -23,6 +23,17 @@ layout: page_grid
 
 <!-- Get default posts -->
 
+<header class="masthead">
+    <div class="wrap">
+      {% if site.avatar %}
+        <a href="{{ '/' | relative_url }}" class="site-logo" rel="home" title="{{ site.title }}">
+          <img src="{{ site.avatar | relative_url }}" class="site-logo-img animated fadeInDown" alt="{{ site.title }}">
+        </a>
+      {% endif %}
+    </div>
+</header><!-- /.masthead -->
+
+<br>
 {% assign default_beg = offset | minus: pinned.size %}
 
 {% if default_beg < 0 %}

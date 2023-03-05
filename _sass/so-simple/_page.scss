@@ -14,12 +14,55 @@
   margin-bottom: 0.5em;
   font-family: $title-font-family;
   font-weight: $page-title-weight;
-  font-style: italic;
-  letter-spacing: -2px;
+  font-style: bold;
 }
 
 
-
+.masthead {
+    // @include clearfix;
+    margin-bottom: 3em;
+    text-align: center;
+  }
+  
+  .site-title {
+    margin: 0.5em 0 0;
+    padding: 0;
+    font-weight: 900;
+  
+    a {
+      text-decoration: none;
+    }
+  }
+  
+  .site-description {
+    margin-bottom: 1em;
+    font-family: $description-font-family;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .site-logo {
+    display: inline-block;
+    position: relative;
+    z-index: 10;
+  }
+  
+  .site-logo-img {
+    width: $site-logo-width;
+    height: $site-logo-height;
+  
+    @include breakpoint($medium) {
+      width: 1.5 * $site-logo-width;
+      height: 1.5 * $site-logo-height;
+      border-radius: 1.5 * $site-logo-width;
+    }
+  
+    @include breakpoint($large) {
+      width: 2 * $site-logo-width;
+      height: 2 * $site-logo-height;
+      border-radius: 2 * $site-logo-width;
+    }
+  }
 
 /*
    Wide Layout Overrides
