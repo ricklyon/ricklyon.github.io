@@ -23,7 +23,7 @@
   
   .taxonomy-index {
     display: grid;
-    grid-column-gap: 2em;
+    grid-column-gap: 1em;
     grid-template-columns: repeat(2, 1fr);
     margin: 0;
     padding: 0;
@@ -31,15 +31,11 @@
     font-size: 0.9rem;
     list-style: none;
   
-    @include breakpoint($large) {
-      grid-template-columns: repeat(3, 1fr);
-    }
-  
     a {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
-      padding: 0.25em 0;
+      padding: 0.1em 0;
       -webkit-box-pack: justify;
       -ms-flex-pack: justify;
       justify-content: space-between;

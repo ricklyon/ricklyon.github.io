@@ -1,23 +1,23 @@
 ---
-layout: page
+layout: page_grid
 # All the Tags of posts.
 ---
 
+{% assign tags = "" | split: "" %}
+{% for t in site.tags %}
+  {% assign tags = tags | push: t[0] %}
+{% endfor %}
+
+{% assign sorted_tags = tags | sort_natural %}
+
 <ul class="taxonomy-index">
-
-  {% assign tags = "" | split: "" %}
-  {% for t in site.tags %}
-    {% assign tags = tags | push: t[0] %}
-  {% endfor %}
-
-  {% assign sorted_tags = tags | sort_natural %}
 
   {% for t in sorted_tags %}
   <li>
       <a href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
         <strong>{{ t }}</strong><span class="taxonomy-count">{{ site.tags[t].size }}</span>
       </a>
-    <li>
+  <li>
   {% endfor %}
 
 </ul>
