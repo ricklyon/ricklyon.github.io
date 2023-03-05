@@ -2,7 +2,7 @@
 title: Crunchy Peanut Butter Chocolate Chip Cookies
 date: 2023-02-26 08:19:00 +0007
 categories: [dessert, cookies]
-tags: [crunchy peanut butter, sugar, semi-sweet chocolate chips]     # TAG names should always be lowercase
+tags: [crunchy peanut butter, sugar, chocolate chips]     # TAG names should always be lowercase
 image: /images/crunchy-peanut-butter-chocolate-chip-cookies.jpg
 thumbnail: /images/crunchy-peanut-butter-chocolate-chip-cookies-thumbnail.jpg
 ---
