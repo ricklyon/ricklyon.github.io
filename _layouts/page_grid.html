@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% include assets-origin.html %}
+
+<br>
+<br>
+
+<main id="main" class="main-content" aria-label="Content">
+  <article>
+    <div class="page-wrapper">
+      <header class="page-header">
+        {% if page.id %}
+          {% assign title = page.title | markdownify | strip_html %}
+        {% else %}
+          {% assign title = page.title %}
+        {% endif %}
+        {% if page.link %}
+          <h1 id="page-title" class="page-title"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+        {% else %}
+          <h1 id="page-title" class="page-title">{{ title }}</h1>
+        {% endif %}
+      </header>
+      <div class="page-content">
+        
+        {% capture _content %}
+        {% if layout.refactor or page.layout == 'page' %}
+          {% include refactor-content.html content=content %}
+        {% else %}
+          {{ content }}
+        {% endif %}
+      {% endcapture %}
+  
+      {% if page.layout == 'page' or page.collection == 'tabs' %}
+        {% assign tab_key = page.title | downcase %}
+        {% assign title = site.data.locales[site.lang].tabs[tab_key] | default: page.title %}
+        <h1 class="dynamic-title">
+          {{ title }}
+        </h1>
+        <div class="post-content">
+          {{ _content }}
+        </div>
+      {% else %}
+        {{ _content }}
+      {% endif %}
+
+        {% if page.share %}
+          {% include social-share.html %}
+        {% endif %}
+      </div>
+    </div>
+  </article>
+</main>
+
+{% if layout.tail_includes %}
+<div class="row">
+  <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 pl-3 pr-3 pr-xl-4 mt-5">
+    {% for _include in layout.tail_includes %}
+      {% assign _include_path = _include | append: '.html' %}
+      {% include {{ _include_path }} %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
