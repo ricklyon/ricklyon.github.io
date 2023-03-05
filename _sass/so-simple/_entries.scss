@@ -23,10 +23,10 @@
   
   .taxonomy-index {
     display: grid;
-    grid-column-gap: 1em;
-    grid-template-columns: repeat(2, 1fr);
-    margin: 0;
-    padding: 0;
+    grid-column-gap: 2em;
+    grid-template-columns: repeat(3, 1fr);
+    margin: -1em;
+    padding: -1em;
     font-family: $base-font-family;
     font-size: 0.9rem;
     list-style: none;
@@ -35,7 +35,7 @@
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
-      padding: 0.1em 0;
+      padding: -1em -1em;
       -webkit-box-pack: justify;
       -ms-flex-pack: justify;
       justify-content: space-between;
@@ -45,7 +45,7 @@
     }
   
     + .taxonomy-section {
-      margin-top: 3em;
+      margin-top: -1em;
     }
   }
 
