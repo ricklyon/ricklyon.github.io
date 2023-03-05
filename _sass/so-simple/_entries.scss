@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .entry {
-  @include clearfix();
+//   @include clearfix();
   position: relative;
 
   a {
@@ -23,11 +23,11 @@
 
 .entry-title {
   margin-bottom: 0.5rem;
-  margin-left: 0.5rem;
+  margin-left: 0.2rem;
   font-family: $title-font-family;
   font-weight: $entry-title-weight;
-  font-style: italic;
-  letter-spacing: -1px;
+  font-style: bold;
+  letter-spacing: 0.1px;
   word-wrap: break-word; /* break long words that could overflow */
 
   a {
@@ -90,7 +90,7 @@
   }
 
   .entry-title {
-    @include fluid-type($min-vw, $max-vw, 24px, 36px);
+    // @include fluid-type($min-vw, $max-vw, 24px, 36px);
     -webkit-box-ordinal-group: 2;
     -ms-flex-order: 1;
     order: 1;
@@ -153,7 +153,7 @@
   }
 
   .entry-title {
-    @include fluid-type($min-vw, $max-vw, 18px, 24px);
+    // @include fluid-type($min-vw, $max-vw, 18px, 24px);
     -webkit-box-ordinal-group: 2;
     -ms-flex-order: 1;
     order: 1;
