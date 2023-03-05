@@ -2,22 +2,22 @@
    Entries (Posts, collection documents, etc.)
    ========================================================================== */
 
-.taxonomy-section {
-    margin-bottom: -2em;
-    padding-bottom: -1em;
+   .taxonomy-section {
+    margin-bottom: 2em;
+    padding-bottom: 1em;
   
     &:not(:last-child) {
       border-bottom: solid 1px;
     }
   
     + .taxonomy-section {
-      margin-top: -2em;
+      margin-top: 2em;
     }
   }
   
   .taxonomy-title {
     // @include fluid-type($min-vw, $max-vw, 28px, 32px);
-    margin-bottom: -0.5em;
+    margin-bottom: 0.5em;
     font-family: $base-font-family;
   }
   
@@ -25,8 +25,8 @@
     display: grid;
     grid-column-gap: 2em;
     grid-template-columns: repeat(2, 1fr);
-    margin: -1em;
-    padding: -1em;
+    margin: 0;
+    padding: 0;
     font-family: $base-font-family;
     font-size: 0.9rem;
     list-style: none;
@@ -39,7 +39,7 @@
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
-      padding: -0.25em 0;
+      padding: 0.25em 0;
       -webkit-box-pack: justify;
       -ms-flex-pack: justify;
       justify-content: space-between;
@@ -49,7 +49,7 @@
     }
   
     + .taxonomy-section {
-      margin-top: -10em;
+      margin-top: 3em;
     }
   }
 
