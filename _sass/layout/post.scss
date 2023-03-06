@@ -29,12 +29,6 @@
 .preview-img {
   @extend %rounded;
 
-  &:not(.no-bg) {
-    img.lazyloaded {
-      background: var(--img-bg);
-    }
-  }
-
   img {
     aspect-ratio: 40 / 21;
     -o-object-fit: cover;
