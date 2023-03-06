@@ -2,7 +2,7 @@
 title: Banana Bread
 date: 2023-02-26 10:43:00 +0007
 categories: [breads]
-tags: [banana, cinnamon, egss]     # TAG names should always be lowercase
+tags: [banana, cinnamon, eggs]     # TAG names should always be lowercase
 ---
 
 Makes one loaf.

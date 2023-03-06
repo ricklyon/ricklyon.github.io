@@ -22,11 +22,12 @@
   }
   
   .taxonomy-index {
-    display: grid;
-    grid-column-gap: 2em;
-    grid-template-columns: repeat(2, minmax(200px, 1fr));
-    margin: -1em;
-    padding: -1em;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    grid-gap: 5em;
+    margin: 1em;
+    padding: 1em;
     font-family: $base-font-family;
     font-size: 0.9rem;
     list-style: none;
@@ -199,7 +200,7 @@
 .entries-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-gap: 3em;
+  grid-gap: 2em;
 
   .entry {
     display: -webkit-box;

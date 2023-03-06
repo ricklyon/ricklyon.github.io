@@ -3,8 +3,7 @@ title: Coconut Oil Mug Brownie
 date: 2023-03-01 22:00:00 +0007 
 categories: [dessert, mug dessert] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [brownie, serves one, coconut oil, chocolate chips]     # tags should always be lowercase
-# image: \images\chocolate-chip-cookies-lg.jpg # images should be roughly 2:1 ratio
-# thumbnail: \images\chocolate-chip-cookies-400x200.jpg # smaller image for thumbnail on homepage
+image: \images\coconut-oil-mug-brownie.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 

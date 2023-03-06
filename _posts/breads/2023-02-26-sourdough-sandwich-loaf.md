@@ -17,8 +17,8 @@ Makes 2 loaves
 
 ## Directions
 
-1. Combine water and yeast, let dissolve. Stir in sourdough starter until mostly dissolved (a few string bits are ok).
-2. Add 4 cups and the salt, and stir to make a shaggy dough. Knead tht dough for 8 minutes. Add flour 1 tbsp. at a time. The dough is ready when it comes togehter into a smooth ball that is slightly tackly the touch and holds a ball shape in your hand.
+1. Combine water and yeast, let dissolve. Stir in sourdough starter until mostly dissolved (a few stringy bits are ok).
+2. Add 4 cups and the salt, and stir to make a shaggy dough. Knead the dough for 8 minutes. Add flour 1 tbsp. at a time. The dough is ready when it comes together into a smooth ball that is slightly tackly the touch and holds a ball shape in your hand.
 3. Let dough rise until doubled in size in an oiled bowl for 1 1/2 to 2 hours.
 4. Turn dough out and divide in two. Shape into rough balls and let rest 20 minutes.
 5. Shape into loaves, transfer into oiled pans and let rise until they're starting to puff over the rim, 1 to 1 1/2 hours (can leave in fridge to rise overnight).
