@@ -1,11 +1,10 @@
 ---
-title: Jessica's Chocolate Chip Cookies
+title: Family Favorite Chocolate Chip Cookies
 date: 2023-03-07 22:10:00 +0007
 categories: [dessert, cookies]
 tags: [sugar, chocolate chip cookies]     # TAG names should always be lowercase
 image: \images\jessica-chocolate-chip-cookies.jpg
 ---
-Chocolate chip cookies made specifically for the Lyon family.
 Makes 3 dozen cookies.
 
 ## Ingredients
