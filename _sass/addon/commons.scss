@@ -1001,10 +1001,12 @@ $sidebar-display: "sidebar-display";
   padding: 0.18rem 0.3rem;
   color: var(--text-color);
   height: auto;
+  background-color: white;
 
   &:focus {
     box-shadow: none;
     background: center;
+    background-color: white;
 
     &.form-control {
       &::-moz-placeholder { @include input-placeholder; }
