@@ -11,7 +11,7 @@ const ScrollHelper = (function () {
     let orientationLocked = false;
 
     return {
-        hideTopbar: () => $body.attr(ATTR_TOPBAR_VISIBLE, 'true'),
+        hideTopbar: () => $body.attr(ATTR_TOPBAR_VISIBLE, 'false'),
         showTopbar: () => $body.attr(ATTR_TOPBAR_VISIBLE, 'true'),
 
         // scroll up

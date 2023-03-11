@@ -13,7 +13,7 @@ $(function () {
         return;
     }
 
-    const defaultTitleText = $topbarTitle.text().trim();
+    const defaultTitleText = $pageTitle.text().trim();
     let pageTitleText = $pageTitle.text().trim();
     let hasScrolled = false;
     let lastScrollTop = 0;
