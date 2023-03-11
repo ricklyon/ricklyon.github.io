@@ -7,17 +7,6 @@
 
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
-    <div id="topbar-title">
-      {% if page.layout == 'home' %}
-        {{- site.data.locales[site.lang].title | default: site.title -}}
-      {% elsif page.collection == 'tabs' or page.layout == 'page' %}
-        {%- capture tab_key -%}{{ page.url | split: '/' }}{%- endcapture -%}
-        {{- site.data.locales[site.lang].tabs[tab_key] | default: page.title -}}
-      {% else %}
-        {{- site.data.locales[site.lang].layout[page.layout] | default: page.layout | capitalize -}}
-      {% endif %}
-    </div>
-
     <i id="search-trigger" class="fas fa-search fa-fw"></i>
     <span id="search-wrapper" class="align-items-center">
       <i class="fas fa-search fa-fw"></i>
@@ -25,9 +14,6 @@
         aria-label="search" autocomplete="off" placeholder="{{ site.data.locales[site.lang].search.hint | capitalize }}...">
     </span>
     <span id="search-cancel" >{{ site.data.locales[site.lang].search.cancel }}</span>
-  </div>
-
-
   </div>
 
 </div>
