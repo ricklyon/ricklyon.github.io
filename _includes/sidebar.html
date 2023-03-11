@@ -6,17 +6,6 @@
 <br>
 
   <ul class="w-100">
-
-    <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-        <i id="search-trigger" class="fas fa-search fa-fw"></i>
-        <span id="search-wrapper" class="align-items-center">
-          <i class="fas fa-search fa-fw"></i>
-          <input class="form-control" id="search-input" type="search"
-            aria-label="search" autocomplete="off" placeholder="{{ site.data.locales[site.lang].search.hint | capitalize }}...">
-        </span>
-        <span id="search-cancel" >{{ site.data.locales[site.lang].search.cancel }}</span>
-    
-      </li> <!-- .nav-item -->
       
     <!-- home -->
     <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
