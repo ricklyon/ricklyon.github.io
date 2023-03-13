@@ -2,7 +2,7 @@
 title: Marinara Pasta
 date: 2023-03-13 13:40:00 +0007 
 categories: [dinner, pasta] # maximum of two comma seperated values, recipes are organized in folders based on the category
-tags: [pasta, marinara, mushrooms, olives, instant pot, 30 min meal]     # tags should always be lowercase
+tags: [pasta, marinara, mushrooms, olives, instant pot, 30 minute meal]     # tags should always be lowercase
 image: \images\marinara-pasta.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---

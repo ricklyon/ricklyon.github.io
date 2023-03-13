@@ -3,6 +3,7 @@ title: Sourdough Sandwich Loaf
 date: 2023-02-26 10:55:00 +0007
 categories: [breads]
 tags: [sourdough]     # TAG names should always be lowercase
+image: \images\sourdough-sandwich-loaf.jpg # images should be roughly 2:1 ratio
 ---
 
 Makes 2 loaves

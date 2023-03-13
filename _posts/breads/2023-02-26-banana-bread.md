@@ -1,7 +1,7 @@
 ---
 title: Banana Bread
 date: 2023-02-26 10:43:00 +0007
-categories: [breads]
+categories: [breads, quick]
 tags: [banana, cinnamon, egg]     # TAG names should always be lowercase
 ---
 

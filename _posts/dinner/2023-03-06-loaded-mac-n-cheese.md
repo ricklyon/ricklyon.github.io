@@ -1,7 +1,7 @@
 ---
 title: Loaded Mac & Cheese
 date: 2023-03-06 21:30:00 +0007 
-categories: [dinner] # maximum of two comma seperated values, recipes are organized in folders based on the category
+categories: [dinner, pasta] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [macaroni, cheese, broccoli, chicken, mixed vegetables, instant pot, 30 minute meal]     # tags should always be lowercase
 image: \images\loaded-mac-n-cheese.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
