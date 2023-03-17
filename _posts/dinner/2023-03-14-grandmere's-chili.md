@@ -3,11 +3,11 @@ title: Grandmere's Chili
 date: 2023-03-14 22:15:00 +0007 
 categories: [dinner, soup] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [beans, tomatoes, corn, slow cooker, instant pot]     # tags should always be lowercase
-image: \images\grandmeres-chili.jpg # images should be roughly 2:1 ratio
+image: \images\grandmeres-chili2.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 
-A family favorite chili recipe that comes together quickly with lots of leftovers.
+Serves 4-6, with leftovers.
 
 ## Ingredients
 

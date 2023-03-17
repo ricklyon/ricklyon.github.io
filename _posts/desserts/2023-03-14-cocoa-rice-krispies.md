@@ -7,8 +7,7 @@ image: \images\cocoa-rice-krispies.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 
-A spiced up version of rice krispies, tasting like s'mores.
-Makes on 13x9 pan
+Makes one 13x9 pan
 
 ## Ingredients
 

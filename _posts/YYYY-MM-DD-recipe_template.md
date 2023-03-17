@@ -21,7 +21,7 @@ Blurb about recipe
 2. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.
 
 ### Links to recipes on this site
-Serve with [Castle Corn Chowder](/posts/Castle-Corn-Chowder/)
+Serve with [Castle Corn Chowder](/recipes/Castle-Corn-Chowder/)
 
 ### Links to other sites:
 Recipe source for [Castle Corn Chowder](https://www.allrecipes.com/gallery/9x13-baked-pasta-recipes/)
