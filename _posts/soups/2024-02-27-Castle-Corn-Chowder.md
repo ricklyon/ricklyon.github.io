@@ -1,7 +1,7 @@
 ---
 title: Castle Corn Chowder
 date: 2023-02-27 22:15:00 +0007
-categories: [soups]
+categories: [soup]
 tags: [red potatoes, corn, creamed corn, bacon, shredded cheese, chowder, instant pot]     # TAG names should always be lowercase
 image: /images/bread-bowl.jpg
 thumbnail: /images/bread-bowl.jpg
