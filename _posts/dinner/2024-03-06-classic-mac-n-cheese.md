@@ -7,7 +7,7 @@ image: \images\mac-n-cheese.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 
-Serves 4-6 with leftover.
+Serves 4-6 with leftovers.
 
 ## Ingredients
 
