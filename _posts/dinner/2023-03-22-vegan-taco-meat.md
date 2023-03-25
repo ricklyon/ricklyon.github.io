@@ -33,10 +33,14 @@ SLOW COOKER:
 INSTANT POT:
 3. Cook for 22 minutes with a natural release. Remember to use less water if using this method.
 
-### Links to recipes on this site
-Serve with [Flour Tortillas](/recipes/flour-tortillas/)
 
 > Leftovers can be kept in the refrigerator or frozen for up to 6 months.
 {: .prompt-info }
+
+
+### Links to recipes on this site
+Serve with [Flour Tortillas](/recipes/flour-tortillas/)
+
+
 
 

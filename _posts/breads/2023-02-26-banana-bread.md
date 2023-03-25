@@ -3,6 +3,7 @@ title: Banana Bread
 date: 2023-02-26 10:43:00 +0007
 categories: [breads, quick]
 tags: [banana, cinnamon, egg]     # TAG names should always be lowercase
+image: \images\banana-bread.jpg # images should be roughly 2:1 ratio
 ---
 
 Makes one loaf.

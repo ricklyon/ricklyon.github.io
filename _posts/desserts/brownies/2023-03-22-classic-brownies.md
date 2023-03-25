@@ -2,7 +2,7 @@
 title: Mmm-mmm Better Brownies
 date: 2023-03-22 21:55:00 +0007 
 categories: [dessert, brownies] # maximum of two comma seperated values, recipes are organized in folders based on the category
-tags: [cocoa, ]     # tags should always be lowercase
+tags: [cocoa]     # tags should always be lowercase
 image: \images\classic-brownies.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---

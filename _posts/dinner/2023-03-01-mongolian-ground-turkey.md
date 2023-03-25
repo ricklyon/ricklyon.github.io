@@ -3,8 +3,8 @@ title: Mongolian Ground Turkey
 date: 2023-03-01 21:28:00 +0007 
 categories: [dinner, main dish] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [ground turkey, soy sauce, rice, hoisin sauce]     # tags should always be lowercase
-image: \images\mongolian-ground-turkey.jpg # images should be roughly 2:1 ratio
-thumbnail: \images\mongolian-ground-turkey-thumbnail.jpg # smaller image for thumbnail on homepage
+image: \images\mongolian-ground-turkey2.jpg # images should be roughly 2:1 ratio
+# thumbnail: \images\mongolian-ground-turkey-thumbnail.jpg # smaller image for thumbnail on homepage
 pin: false  # pin to the top of homepage
 ---
 

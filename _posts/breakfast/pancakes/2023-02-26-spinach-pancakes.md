@@ -3,6 +3,7 @@ title: Spinach Pancakes
 date: 2023-02-26 22:00:00 +0007
 categories: [breakfast, pancakes]
 tags: [pancakes, buttermilk]     # TAG names should always be lowercase
+image: \images\spinach-pancakes.jpg # images should be roughly 2:1 ratio
 ---
 
 Makes 14 small pancakes (4 inch)
