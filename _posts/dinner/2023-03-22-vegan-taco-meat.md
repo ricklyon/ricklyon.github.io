@@ -3,7 +3,7 @@ title: Lentil and Brown Rice Taco "Meat"
 date: 2023-03-22 21:45:00 +0007 
 categories: [dinner] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [tacos, vegan, slow cooker, lentils, brown rice, instant pot]     # tags should always be lowercase
-image: \images\vegan-taco-meat.jpg # images should be roughly 2:1 ratio
+image: \images\vegan-taco-meat2.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 
