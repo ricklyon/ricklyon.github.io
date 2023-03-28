@@ -1,9 +1,9 @@
 ---
 title: Creamy Taco Soup
 date: 2023-03-20 23:15:00 +0007 
-categories: [soups] # maximum of two comma seperated values, recipes are organized in folders based on the category
+categories: [soup] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [beans, milk, corn, tomato]     # tags should always be lowercase
-image: \images\creamy-taco-soup.jpg # images should be roughly 2:1 ratio
+image: \images\creamy-taco-soup2.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 

@@ -3,7 +3,7 @@ title: White Sandwich Bread
 date: 2023-02-26 10:33:00 +0007
 categories: [breads]
 tags: [white bread, sugar]     # TAG names should always be lowercase
-image: \images\white-sandwich-bread.jpg # images should be roughly 2:1 ratio
+image: \images\white-sandwich-bread2.jpg # images should be roughly 2:1 ratio
 ---
 
 Makes one loaf.
