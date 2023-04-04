@@ -24,7 +24,7 @@ Makes 3 dozen cookies.
 ## Directions
 
 1. Preheat the oven to 375&deg;F.
-2. In a medium microwave safe bowl, melt the butter, about 30seconds. Does not need to be completely melted.
+2. In a medium microwave safe bowl, melt the butter, about 30seconds. Does not need to be completely melted. Mix in sourdough starter until mixed smooth.
 3. Cream in the butter and sugars until smooth and light colored. Should look less grainy.
 4. Beat in eggs and vanilla. Whip for a few seconds to make the mixture lighter colored and frothy.
 5. Add in baking soda, salt, and flour. Mix well. If flour isn't mixing in, add the splash of milk to slacken the dough.

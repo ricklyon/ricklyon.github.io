@@ -32,7 +32,7 @@ Serves 4-6
 
 1. Brown ground turkey in salt, cumin, oregano, and pepper. Add onion, garlic, bell peppers, and cook until browned and veggies are soft.
 2. Add all remaining ingredients (except cream, cheese, and spinach). Cook in instant pot according to pasta box directions. Take the lowest amount of cooking time, divide it in half, then add one minute. Leave five minutes, then quick release.
-3. Stir in cream, cheese, and spinach. Put lid back on and let spinach wilt. Serve
+3. Stir in cream, cheese, and spinach. Put lid back on and let spinach wilt. Serve.
 
 
 > Can cook on stovetop, if needed.

@@ -3,7 +3,7 @@ title: Chicken Potato and Asparagus Bowl
 date: 2023-03-28 14:55:00 +0007 
 categories: [dinner] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [potato, asparagus, chicken]     # tags should always be lowercase
-image: \images\chicken-asparagus-potato.jpg # images should be roughly 2:1 ratio
+image: \images\Chicken-asparagus-potato.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 
