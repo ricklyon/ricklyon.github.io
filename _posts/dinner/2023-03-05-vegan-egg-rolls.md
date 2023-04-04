@@ -18,8 +18,7 @@ Makes 12 egg rolls.
 * 10-15 mushrooms, rinsed and diced
 * &frac12; package coleslaw
 * 1 cup cooked rice
-* &frac14; cup
- (or to taste) soy sauce
+* &frac14; cup (or to taste) soy sauce
 * sesame oil (optional)
 * 12 egg roll wrapper (store-bought or homemade)
 * bowl of water

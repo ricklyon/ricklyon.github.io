@@ -1,7 +1,7 @@
 ---
 title: Tuna Salad
 date: 2023-03-11 14:00:00 +0007 
-categories: [dinner, 30 minute meals] # maximum of two comma seperated values, recipes are organized in folders based on the category
+categories: [dinner] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [tuna, grapes, celery]     # tags should always be lowercase
 image: \images\tuna-salad.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage

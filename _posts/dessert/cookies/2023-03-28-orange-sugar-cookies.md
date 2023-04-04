@@ -1,7 +1,7 @@
 ---
 title: Orange Sugar Cookies
 date: 2023-03-28 14:00:00 +0007 
-categories: [desserts, cookies] # maximum of two comma seperated values, recipes are organized in folders based on the category
+categories: [dessert, cookies] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [sugar, orange]     # tags should always be lowercase
 image: \images\orange-sugar-cookies.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
