@@ -1,7 +1,7 @@
 ---
 title: Sourdough Dinner Rolls
 date: 2023-3-22 22:20:00 +0007 
-categories: [bread, rolls] # maximum of two comma seperated values, recipes are organized in folders based on the category
+categories: [breads, rolls] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [sourdough]     # tags should always be lowercase
 image: \images\sourdough-dinner-rolls.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage

@@ -2,7 +2,7 @@
 title: Vegan Egg Rolls
 date: 2023-03-05 22:20:00 +0007 
 categories: [dinner] # maximum of two comma seperated values, recipes are organized in folders based on the category
-tags: [mushrooms, egg rolls, soy sauce, rice, coleslaw, Asian, air fryer]     # tags should always be lowercase
+tags: [mushrooms, egg rolls, soy sauce, rice, coleslaw, asian, air fryer]     # tags should always be lowercase
 image: \images\vegan-egg-rolls.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
