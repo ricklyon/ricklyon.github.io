@@ -1,5 +1,5 @@
 ---
-title: Recipe Title
+title: Ground Turkey and Mashed Potatoes
 date: 2023-09-09 17:15:00 +0007 
 categories: [dinner, ground turkey] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [mashed potatoes, easy]     # tags should always be lowercase
