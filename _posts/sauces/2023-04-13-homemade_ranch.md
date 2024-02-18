@@ -1,7 +1,7 @@
 ---
 title: Homemade Ranch
 date: 2023-04-13 22:45:00 +0007 
-categories: [sauces&gravy] # maximum of two comma seperated values, recipes are organized in folders based on the category
+categories: [sauces] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [ranch]     # tags should always be lowercase
 image: \images\homemade-ranch.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage

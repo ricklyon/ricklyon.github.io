@@ -1,7 +1,7 @@
 ---
 title: Vegetable Pasta Sauce
 date: 2023-04-04 11:32:00 +0007 
-categories: [sauces/gravy] # maximum of two comma seperated values, recipes are organized in folders based on the category
+categories: [sauces] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [pasta, marinara, carrots, peppers, onion]     # tags should always be lowercase
 image: \images\vegetable-pasta-sauce.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
