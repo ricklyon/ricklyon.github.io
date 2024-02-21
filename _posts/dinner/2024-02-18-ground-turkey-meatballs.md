@@ -1,5 +1,5 @@
 ---
-title: Ground Turkey Meatbals
+title: Ground Turkey Meatballs
 date: 2024-02-18 11:10:00 +0007 
 categories: [dinner, ground turkey] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [spaghetti]     # tags should always be lowercase

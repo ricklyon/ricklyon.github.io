@@ -1,5 +1,5 @@
 ---
-title: Family Favorite Chocolate Chip Cookies
+title: Sourdough Chocolate Chip Cookies
 date: 2023-03-07 22:10:00 +0007
 categories: [dessert, cookies]
 tags: [sourdough, sugar, chocolate chip cookies]     # TAG names should always be lowercase
