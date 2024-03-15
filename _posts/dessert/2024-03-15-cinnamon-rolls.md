@@ -3,7 +3,7 @@ title: Cinnamon Rolls
 date: 2024-03-15 03:30:00 +0007 
 categories: [dessert] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [dessert]     # tags should always be lowercase
-image: \images\cinnamon-rolls-lg.jpg # images should be roughly 2:1 ratio
+image: \images\cinnamon-rolls.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 

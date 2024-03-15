@@ -3,7 +3,7 @@ title: Quick Biscuits
 date: 2023-03-20 22:45:00 +0007 
 categories: [breads, biscuit] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: []     # tags should always be lowercase
-# image: \images\chocolate-chip-cookies-lg.jpg # images should be roughly 2:1 ratio
+image: \images\quick-biscuits.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 
