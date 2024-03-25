@@ -3,7 +3,7 @@ title: Maple Syrup
 date: 2024-02-18 11:25:00 +0007 
 categories: [sauces] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [syrup, breakfast]     # tags should always be lowercase
-#image: \images\chocolate-chip-cookies-lg.jpg # images should be roughly 2:1 ratio
+image: \images\maple-syrup.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 

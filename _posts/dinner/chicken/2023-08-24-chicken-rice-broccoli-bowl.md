@@ -3,7 +3,7 @@ title: Chicken, Rice, and Broccoli Bowl
 date: 2023-08-23 07:30:00 +0007 
 categories: [dinner, chicken] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [instant pot, rice, chicken]     # tags should always be lowercase
-# image: \images\chocolate-chip-cookies-lg.jpg # images should be roughly 2:1 ratio
+image: \images\chicken-broccoli.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 
