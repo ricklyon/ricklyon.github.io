@@ -3,7 +3,7 @@ title: Chicken Enchiladas
 date: 2024-02-21 11:55:00 +0007 
 categories: [dinner, chicken] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [enchiladas]     # tags should always be lowercase
-image: \images\enchiladas.jpg # images should be roughly 2:1 ratio
+image: \images\chicken-enchiladas-1.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 
