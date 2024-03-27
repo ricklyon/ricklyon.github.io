@@ -3,7 +3,7 @@ title: Enchilada Sauce
 date: 2024-02-21 12:00:00 +0007 
 categories: [sauces] # maximum of two comma seperated values, recipes are organized in folders based on the category
 tags: [enchilada]     # tags should always be lowercase
-image: \images\chicken-enchiladas.jpg # images should be roughly 2:1 ratio
+image: \images\chicken-enchiladas-1.jpg # images should be roughly 2:1 ratio
 pin: false  # pin to the top of homepage
 ---
 
