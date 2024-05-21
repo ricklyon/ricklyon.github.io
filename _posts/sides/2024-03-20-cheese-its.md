@@ -29,7 +29,7 @@ Makes 50+ cheese its
 7. When done, let cool immediately on a wire rack. Leaving them on the baking sheet will make them become soggy.
 
 ### Links to other sites:
-Recipe source for [Homemade Cheese-Itz](https://www.goodfoodstories.com/homemade-cheez-its/)
+Recipe source for [Homemade Cheese-Its](https://www.goodfoodstories.com/homemade-cheez-its/)
 
 > These go from close to being done to burnt quickly. Keep a close eye on them after 10 minutes.
 {: .prompt-warning }
